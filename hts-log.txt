@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 14 Oct 2024 11:49:16 at https://quickoo.online/MeeLearn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://quickoo.online/MeeLearn/ -O1 "C:\My Web Sites\saleoffer" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:52:53	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://quickoo.online/MeeLearn/product/ac1dd209cbcc5e5d1c6e28598e8cbbe8 (from https://quickoo.online/MeeLearn/)
+11:57:12	Error: 	"Not Found" (404) at link https://quickoo.online/MeeLearn/assets/images/theme/search.svg (from https://quickoo.online/MeeLearn/)
+11:57:12	Error: 	"Not Found" (404) at link https://quickoo.online/MeeLearn/assets/fonts/Mier_B02-Bold.woff (from https://quickoo.online/MeeLearn/assets/website/css/custom.css)
+11:57:12	Error: 	"Not Found" (404) at link https://quickoo.online/MeeLearn/a (from https://connect.facebook.net/en_US/fbevents.js)
+11:57:12	Error: 	"Not Found" (404) at link https://quickoo.online/MeeLearn/POST (from https://connect.facebook.net/en_US/fbevents.js)
+11:57:12	Error: 	"Not Found" (404) at link https://quickoo.online/MeeLearn/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+11:57:12	Error: 	"Not Found" (404) at link https://quickoo.online/MeeLearn/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+11:57:12	Error: 	"Not Found" (404) at link https://quickoo.online/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+11:57:14	Error: 	"Not Found" (404) at link https://quickoo.online/MeeLearn/popper.html (from https://quickoo.online/MeeLearn/assets/website/js/bootstrap.min.js)
+11:57:18	Error: 	"Not Found" (404) at link https://quickoo.online/MeeLearn/qr-code.png (from https://quickoo.online/MeeLearn/payment)
+11:57:18	Error: 	"Not Found" (404) at link https://quickoo.online/MeeLearn/thankyou.php?utr= (from https://quickoo.online/MeeLearn/payment)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 2 seconds : 752 links scanned, 740 files written (583722669 bytes overall) [565910557 bytes received at 1174088 bytes/sec], 22427646 bytes transferred using HTTP compression in 200 files, ratio 16%, 14.4 requests per connection
+(10 errors, 1 warnings, 0 messages)

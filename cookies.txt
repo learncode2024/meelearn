@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+quickoo.online	TRUE	/	FALSE	1999999999	ci_session	01tnenchm7eavlikgfvprifqfh0altug
+quickoo.online	TRUE	/	FALSE	1999999999	SameSite	Lax
+
